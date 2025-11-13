@@ -3,6 +3,7 @@ asgiref==3.10.0
 backoff==2.2.1
 Django==5.2.8
 gql==4.0.0
+bcc==0.1.10
 graphene==3.4.3
 graphene-django==3.2.3
 graphql-core==3.2.7
