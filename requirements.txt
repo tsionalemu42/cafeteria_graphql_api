@@ -3,13 +3,14 @@ asgiref==3.10.0
 backoff==2.2.1
 Django==5.2.8
 gql==4.0.0
-bcc==0.1.10
 graphene==3.4.3
 graphene-django==3.2.3
 graphql-core==3.2.7
 graphql-relay==3.2.0
+gunicorn==23.0.0
 idna==3.11
 multidict==6.7.0
+packaging==25.0
 promise==2.3
 propcache==0.4.1
 python-dateutil==2.9.0.post0
